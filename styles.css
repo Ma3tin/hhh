@@ -1,0 +1,9 @@
+td {
+    border: 2px solid black;
+    width: 30px;
+    height: 30px;
+}
+
+.clicked {
+    background-color: red;
+}
